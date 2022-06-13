@@ -1,0 +1,10 @@
+.root{
+  height: 100%;
+  margin: 60px 0 0 0;
+  display: flex;
+  :global{
+    .content{
+      flex:1
+    }
+  }
+}

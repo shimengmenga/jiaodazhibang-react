@@ -1,0 +1,16 @@
+.root{
+  padding: 20px;
+  :global{
+    .inp{
+      width: 240px;
+      height: 40px;
+    }
+    .btn{
+      height: 40px;
+      width: 100px;
+      border: 2px solid #41719c;
+      margin-left: 20px;
+      background-color: #5b9bd5;
+    }
+  }
+}
